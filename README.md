@@ -14,6 +14,7 @@ Shared files for the Solveway AI and automation apprenticeship. Clone this next 
 | Folder | What it holds |
 |---|---|
 | `Prompts` | Starter prompts to run at your own vault |
+| `Vendor-Courses` | The online courses you do between sessions, with dates. Read-only: copy them into your own vault |
 
 More is added as the programme goes on.
 
