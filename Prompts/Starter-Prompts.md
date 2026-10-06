@@ -18,15 +18,21 @@ Look through my whole vault and tell me how it is organised. List the folders, s
 
 ---
 
-## Prompt 2: add notes that follow a pattern
+## Prompt 2: add your own vendor courses
 
-Now it writes. Notice that you are asking it to copy a pattern that already exists, rather than inventing one.
+Now it writes. Notice that you are asking it to copy a pattern that already exists, rather than inventing one. The pattern is in `Course-Files`, and the new notes go in **your own vault**, not in `Course-Files`.
 
 ```text
-Look at the README files already in my vault so you can see the style. Then create one new note in my Processes folder called "How I take session notes". Follow the same style: a heading, a short line saying what it is for, then numbered steps. Keep it short. Do not put any names or personal details in it.
+Read Course-Files/Vendor-Courses/README.md and one of the course notes in that folder, so you can see the layout. Then, in my own vault, add a folder and a note for each of these courses in Programme/Vendor-Courses, using the same layout. If that folder does not exist yet, create it. Do not change anything inside Course-Files.
+
+- VC-25 Supabase Fundamentals. Provider: Supabase (https://supabase.com/docs). Do it between 20 October and 3 November 2026. Due before Session 10.
+- VC-24 Foundation: Intro to LangGraph (Python). Provider: LangChain Academy (https://academy.langchain.com). Do it between 15 December 2026 and 12 January 2027. Due before Session 14.
+- VC-08 Introduction to Generative AI (5-course path). Provider: Google Skills (https://www.skills.google). Do it between 26 January and 9 February 2027. Due before Session 16.
+
+Then list every file you created or changed.
 ```
 
-**Then check:** open the new note in Obsidian. Does it match the style of what was already there?
+**Then check:** open one of the new notes in Obsidian. Does it match the layout of the notes in `Course-Files`? Is it in your own vault, under `Programme`, and not inside `Course-Files`?
 
 ---
 
